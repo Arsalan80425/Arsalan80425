@@ -1,10 +1,10 @@
-# Hey there! I'm Mohammad Danish Ansari
+# Hey there! I'm Mohammed Arsalan
 
 I am currently in my third year of B.Tech in Data Science & Artificial Intelligence at the Indian Institute of Information Technology, Dharwad. With strong enthusiasm and steady commitment, I work hard to keep improving my knowledge and skills, becoming a better version of myself over time.
 
 - 🌱 Currently I’m learning Machine Learning 
 - 👯 I’m looking to collaborate on ML projects.
-- 📫 How to reach me: Drop a message on my [LinkedIn](https://www.linkedin.com/in/danish9491/).
+- 📫 How to reach me: Drop a message on my [LinkedIn](www.linkedin.com/in/mohammed-arsalan-58543a305).
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -58,9 +58,10 @@ I am currently in my third year of B.Tech in Data Science & Artificial Intellige
 <img src="https://i.imgur.com/YCw47Dm.gif">
 
    <div>
-   <img width="52.7%"  src="https://github-readme-stats.vercel.app/api?username=danish9491&show_icons=true&theme=radical" />
-   <img width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danish9491&layout=compact&theme=radical" />
+   <img width="52.7%"  src="https://github-readme-stats.vercel.app/api?username=Arsalan80425&show_icons=true&theme=radical" />
+   <img width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsalan80425&layout=compact&theme=radical" />
    </div>
    </br></br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=danish9491&theme=tokyonight&border_radius=6.5)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Arsalan80425&theme=tokyonight&border_radius=6.5)](https://git.io/streak-stats)
+
