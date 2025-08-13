@@ -1,9 +1,9 @@
 # Hey there! I'm Mohammed Arsalan
 
-I am a third-year B.Tech student specializing in Data Science & Artificial Intelligence at the Indian Institute of Information Technology, Dharwad.I'm a passionate data analyst and UI/UX designer with a background in AI and machine learning. I enjoy using data-driven insights to solve real-world problems and design user-centric experiences. My work ranges from data analysis and visualization to developing AI models for applications like disease prediction and social network analysis.
+I am a Final-year B.Tech student specializing in Data Science & Artificial Intelligence at the Indian Institute of Information Technology, Dharwad.I'm a passionate Data Scientist and UI/UX designer with a background in AI and machine learning. I enjoy using data-driven insights to solve real-world problems and design user-centric experiences. My work ranges from data analysis and visualization to developing AI models for applications like disease prediction , Virtul Mouse, Football Players Detection and many more.
 
-- 💻 Languages and Tools: MySQL, Python, TensorFlow, PowerBI, NumPy, Pandas, Matplotlib, and more.
-- 🚀 Current Projects: Building a Blinkit sales dashboard, optimizing graph-based social network analysis, and developing an AI model for real-world problem-solving.
+- 💻 Languages and Tools: MySQL, Python, Mediapipe, TensorFlow, PowerBI, NumPy, Pandas, Matplotlib, and more.
+- 🚀 Current Projects: Built a Virtual mouse that works on hands gestures, Football players detection project that enables robust tracking of football players, referees, and the ball in video footage and developing more and more AI model for real-world problem-solving.
 - 📚 Interests: Data science, AI-driven solutions, UI/UX design, and scalable AutoML platforms.
 - ♟️ Fun Fact: I've been selected for the inter IIIT chess team twice!
 - Let's connect and collaborate on innovative data and AI projects!
