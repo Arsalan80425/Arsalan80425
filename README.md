@@ -93,13 +93,3 @@ I’m open to collaborating on **LLMs, RAG systems, AI research, and real-world 
 📫 **LinkedIn:** https://www.linkedin.com/in/mohammed-arsalan-58543a305  
 🌐 **Portfolio:** https://arsalan-804.netlify.app
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arsalan80425&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsalan80425&layout=compact&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Arsalan80425&theme=tokyonight&border_radius=6.5"/>
-</p>
